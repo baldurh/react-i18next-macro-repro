@@ -1,0 +1,8 @@
+{
+  "h1": "A simple example",
+  "change-locale": "Change locale",
+  "to-second-page": "To second page",
+  "error-with-status": "A {{statusCode}} error occurred on server",
+  "error-without-status": "An error occurred on the server",
+  "itemCount": "{itemsCount, plural,  =0 {There is no item.} one {There is # item.} other {There are # items.}}"
+}
